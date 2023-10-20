@@ -1,0 +1,46 @@
+body{
+    background-color: #faeaeb;
+    color: #2f3d7e;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: #2f3d7e;
+}
+
+a:hover{
+    color: #6727cd;
+}
+
+.heading{
+    text-align: center;
+}
+
+.content{
+    display: flex;
+}
+
+.profile_pic{
+    float: left;
+    margin: 25px;
+
+}
+
+.introduction{
+
+}
+
+.social_media{
+
+}
+
+#instagram{
+    width: 5%;
+}
+
+#pic1{
+    width: 75%;
+}
